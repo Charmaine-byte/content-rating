@@ -1,4 +1,4 @@
-# coding-project-template
+🍓 content rating app🍓
 🍉What I Learned in This Lab
 
 Learned how to set up state variables in the constructor of a React class component to manage dynamic data such as "likes" and "dislikes."
